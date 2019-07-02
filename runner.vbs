@@ -7,7 +7,7 @@ QTP.Open "C:\Users\E004535\Desktop\Spire Project\Testscripts\GUITest1", TRUE
  
  
 Set qtpResultsOpt = CreateObject("QuickTest.RunResultsOptions")
-qtpResultsOpt.ResultsLocation = "C:\Users\E004535\Desktop\Spire Project\Results"  
+qtpResultsOpt.ResultsLocation = "C:\Program Files (x86)\Jenkins\workspace\Results"  
  
  
 QTP.Test.Run qtpResultsOpt
