@@ -5,7 +5,7 @@ QTP.Visible = TRUE
 
  
  
-QTP.Open "C:\Users\E004535\Desktop\Spire Project\Testscripts\GUITest1", TRUE
+QTP.Open "C:\Users\E004535\Documents\SpireOne\git_jenkins\spireone\Scripts\DevOps", TRUE
   
  
  

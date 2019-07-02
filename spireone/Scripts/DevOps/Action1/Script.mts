@@ -7,3 +7,4 @@ Browser("MSN India | Breaking News,").Page("Cricket World Cup").Link("Teams").Cl
 Browser("MSN India | Breaking News,").Page("World Cup teams").Link("Schedule").Click @@ hightlight id_;_Browser("MSN India | Breaking News,").Page("World Cup teams").Link("Schedule")_;_script infofile_;_ZIP::ssf4.xml_;_
 
 
+ 
